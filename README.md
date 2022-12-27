@@ -29,7 +29,7 @@ This repository Converts api data into pdf format and send the result
 
 - Now go to cloned directory and run `requirements.txt` -
   ```
-  $ cd Django-Test-Cases
+  $ cd Django-PDF-Generator
   $ pipenv shell
   $ python3 -m pip -r requirements.txt
   ```
